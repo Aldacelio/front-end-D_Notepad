@@ -49,19 +49,21 @@
 6. Abra o navegador e acesse `http://localhost:4200`. Você deve ver o aplicativo D_Notepad sendo executado.
 
 ## Aplicação em uso
+<div align="center">
 
-## Tela inicial
+### Tela inicial
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Mural%20de%20Pensamentos.gif" width="450px">
 
-## Criar pensamento
+### Criar pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Criar%20Pensamento.gif" width="450px">
 
-## Editar pensamento
+### Editar pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Editar%20Pensamento.gif" width="450px">
 
-## Excluir pensamento
+### Excluir pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Excluir%20Pensamento.gif" width="450px">
+</div>
