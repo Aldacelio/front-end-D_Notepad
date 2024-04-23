@@ -24,7 +24,7 @@
 
 ## Como executar o projeto
 
-###### **Para executar o projeto localmente, siga estas etapas:**
+### **Para executar o projeto localmente, siga estas etapas:**
 
 1. Certifique-se de ter o Node.js e o npm instalados na sua máquina. Você pode verificar se eles estão instalados executando os seguintes comandos no terminal:
 
