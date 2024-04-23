@@ -45,5 +45,3 @@
 
    `ng serve`
 6. Abra o navegador e acesse `http://localhost:4200`. Você deve ver o aplicativo D_Notepad sendo executado.
-
-**Certifique-se de que todas as etapas acima estejam sendo seguidas corretamente. Se você encontrar algum problema durante a execução do projeto, verifique se você seguiu todas as etapas corretamente e procure ajuda na comunidade Angular ou nos fóruns de desenvolvimento.**
