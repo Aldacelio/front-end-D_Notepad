@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dudu\\Documents\\Repositorio\\D_Notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC2299D-65E2-42F2-8A98-3726AF3080B3}|D_Notepad.esproj|c:\\users\\dudu\\documents\\repositorio\\d_notepad\\src\\app\\components\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC2299D-65E2-42F2-8A98-3726AF3080B3}|D_Notepad.esproj|solutionrelative:src\\app\\components\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC2299D-65E2-42F2-8A98-3726AF3080B3}|D_Notepad.esproj|c:\\users\\dudu\\documents\\repositorio\\d_notepad\\src\\app\\components\\header\\header.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DC2299D-65E2-42F2-8A98-3726AF3080B3}|D_Notepad.esproj|solutionrelative:src\\app\\components\\header\\header.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.component.html",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Documents\\Repositorio\\D_Notepad\\src\\app\\Components\\header\\header.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\header\\header.component.html",
+              "ToolTip": "C:\\Users\\Dudu\\Documents\\Repositorio\\D_Notepad\\src\\app\\Components\\header\\header.component.html",
+              "RelativeToolTip": "src\\app\\Components\\header\\header.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-19T16:50:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.component.css",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Documents\\Repositorio\\D_Notepad\\src\\app\\Components\\header\\header.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\header\\header.component.css",
+              "ToolTip": "C:\\Users\\Dudu\\Documents\\Repositorio\\D_Notepad\\src\\app\\Components\\header\\header.component.css",
+              "RelativeToolTip": "src\\app\\Components\\header\\header.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T16:41:32.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
