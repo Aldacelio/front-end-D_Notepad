@@ -53,17 +53,19 @@
 
 ### Tela inicial
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Mural%20de%20Pensamentos.gif" width="450px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Mural%20de%20Pensamentos.gif" width="480px">
 
 ### Criar pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Criar%20Pensamento.gif" width="450px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Criar%20Pensamento.gif" width="480px">
 
 ### Editar pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Editar%20Pensamento.gif" width="450px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Editar%20Pensamento.gif" width="480px">
 
 ### Excluir pensamento
 
-<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Excluir%20Pensamento.gif" width="450px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/Excluir%20Pensamento.gif" width="480px">
 </div>
+<br>
+<b>Lembrando que essa aplicação em uso não é apenas o front e sim a integração dele com back-end em ASP.NET Core que utiliza o Postgresql como SGBD. Segue o link para o back-end do projeto:</b> https://github.com/Aldacelio/back-end-D_Notepad
