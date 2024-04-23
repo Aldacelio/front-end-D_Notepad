@@ -1,8 +1,8 @@
-<h1 align = "center">D_Notepad</h1> 
+<h1 align = "center">D_NOTEPAD</h1> 
 
-<img src="" width="1300px">
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
 
-## Tecnologias usadas no projeto
+## Tecnologias usadas
 
 * Angular: versão 17.3.0
 * TypeScript: versão 5.4.2
@@ -47,3 +47,21 @@
 
    `ng serve`
 6. Abra o navegador e acesse `http://localhost:4200`. Você deve ver o aplicativo D_Notepad sendo executado.
+
+## Aplicação em uso
+
+## Tela inicial
+
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+
+## Criar pensamento
+
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+
+## Editar pensamento
+
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
+
+## Excluir pensamento
+
+<img src="https://raw.githubusercontent.com/Aldacelio/front-end-D_Notepad/main/src/assets/images/bannerGit.PNG" width="1300px">
