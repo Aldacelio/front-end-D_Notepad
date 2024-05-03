@@ -36,7 +36,7 @@
    ```
 2. Clone este repositório para o seu computador. Você pode fazer isso usando o seguinte comando no terminal:
 
-   `git clone https://github.com/seu-usuario/seu-repositorio.git`
+   `git clone https://github.com/Aldacelio/front-end-D_Notepad.git`
 3. Navegue até a pasta do projeto usando o terminal. Você pode fazer isso usando o seguinte comando:
 
    `cd caminho/para/o/diretorio/do/projeto`
